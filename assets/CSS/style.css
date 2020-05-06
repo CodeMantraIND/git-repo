@@ -6,3 +6,10 @@ body{
     background-color: crimson;
     color: ivory;
 }
+
+ul li{
+    border: ivory;
+    border-width: 1px;
+    font: medium;
+    font-size: 20px;
+}
